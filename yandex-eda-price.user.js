@@ -3,7 +3,7 @@
 // @namespace   yandex-eda-calc
 // @match       *://eda.yandex.ru/*
 // @grant       none
-// @version     1.5
+// @version     1.6
 // @author      Insaf Burangulov
 // @description Калькулятор цен яндекс еды
 // @license     MIT

@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name        Yandex Eda price calculator
-// @namespace   Violentmonkey Scripts
+// @namespace   yandex-eda-calc
 // @match       *://eda.yandex.ru/*
 // @grant       none
 // @version     1.5
 // @author      Insaf Burangulov
-// @description 12/6/2024, 7:41:34 AM
+// @description Калькулятор цен яндекс еды
 // @license     MIT
-// @downloadURL https://update.greasyfork.org/scripts/519925/Yandex%20Eda%20price%20calculator.user.js
-// @updateURL   https://update.greasyfork.org/scripts/519925/Yandex%20Eda%20price%20calculator.meta.js
+// @updateURL    https://raw.githubusercontent.com/bonefabric/price_calc/refs/heads/main/app.js
+// @downloadURL  https://raw.githubusercontent.com/bonefabric/price_calc/refs/heads/main/app.js
+// @update       https://raw.githubusercontent.com/bonefabric/price_calc/refs/heads/main/app.js
+// @run-at       document-end
 // ==/UserScript==
 
 // Главный селектор карточки
